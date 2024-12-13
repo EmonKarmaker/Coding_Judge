@@ -1,0 +1,25 @@
+ul li a.active{
+  background: none !important;
+  color: #FF9D0F !important;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+ul li a:active{
+  background: none !important;
+  color: #FF9D0F !important;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+ul li a:hover{
+  background: none !important;
+}
+
+ul li a:focus{
+  background: none !important;
+}
+
+ul li a{
+  color: #ffffff !important;
+}
